@@ -1,4 +1,5 @@
-![Capa escrito 7 days of code com logo do JavaScript](https://user-images.githubusercontent.com/65081990/233074871-272d22e8-031d-456a-b2e9-27e1a333641b.png)
+
+<center>[Capa escrito 7 days of code com logo do JavaScript](https://user-images.githubusercontent.com/65081990/233074871-272d22e8-031d-456a-b2e9-27e1a333641b.png)</center>
 # #7DaysOfCode JS
 <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange">
 <p> <strong>7 Days Of Code</strong> de lógica em JavaScript é um projeto da <strong>Alura</strong> no qual cada dia é enviado um novo desafio ao participante utilizando

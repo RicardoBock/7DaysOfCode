@@ -10,5 +10,5 @@ a linguagem de programação JavaScript com o objetivo de:</p>
    </ul>
 <strong>1º DESAFIO</strong>: 
 <br>
-O primeiro desafio desafiava o aluno em um código para reforçar os aprendizados em algebra booleana, utilizando de comparações para obtenção de resultados <em>true</m> e <em>false</m>
+O primeiro desafio consistia em o aluno criar um código para reforçar os aprendizados em algebra booleana, utilizando de comparações para obtenção de resultados <em>true</m> e <em>false</m>
 

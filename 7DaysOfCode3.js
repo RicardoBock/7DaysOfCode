@@ -19,7 +19,7 @@ const area = prompt(`Olá ${nome}! \nQual área você gostaria de atuar no futur
             {
             alert(`Muito bem ${nome}, boa sorte em sua jornada como desenvolvedor React na área de Front-End!`);
             }
-             if (linguagem === 2||linguagem=="vue")
+             if (linguagem == 2||linguagem=="vue")
      {
             alert(`Muito bem ${nome}, boa sorte em sua jornada como desenvolvedor Vue na área de Front-End!`);
         }
